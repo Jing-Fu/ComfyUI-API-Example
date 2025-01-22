@@ -1,0 +1,4 @@
+gradio
+pillow
+numpy
+websocket-client
